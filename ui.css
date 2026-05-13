@@ -291,13 +291,6 @@ color: bisque;
     margin-top: -250px;
     margin-left: 800px;
  }
-img{
-    transition: 3s;
-}
-img:hover{
-    width: 200px;
-    height: 150px;
-}
 
 
 
