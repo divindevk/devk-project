@@ -28,6 +28,12 @@ h2{
 padding: 20px;
 
 }
+h1{
+     color: white;
+    text-align: center;
+padding: 0px;
+    margin: 10px;
+}
 
 
 h2 a{
