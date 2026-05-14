@@ -3,7 +3,7 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    margin-top: -53PX;
+    margin-top: -59PX;
     margin-left: -3px;
 }
 
@@ -165,49 +165,54 @@ p{
     }
     #l18{
       width: 500px;
-        height: 70px;
+        height: 50px;
   border-style: groove;
 margin-left: 430px;
 background: linear-gradient(darkblue,greenyellow);
-margin-top: -20px;
+margin-top: -45px;
 border-radius: 20px;
 color: bisque;
     }
+    #l39{
+margin-top: -17px;
+
+    }
     #l19{
         width: 300px;
-        height: 350px;
+        height: 380px;
         border-style: solid;
         background: linear-gradient(darkblue,greenyellow);
         border-radius: 20px;
+        margin-top: 20px;
           }
 
 #l21{
     width: 300px;
-    height: 350px;
+    height: 380px;
     border-style: solid;
      background: linear-gradient(darkblue,greenyellow);
      border-radius: 20px;
-     margin-top: -350px;
+     margin-top: -390px;
      margin-left: 1000px;
 }
 
 #l22{
      width: 300px;
-    height: 350px;
+    height: 410px;
     border-style: solid;
      background: linear-gradient(darkblue,greenyellow);
      border-radius: 20px;
-     margin-top: -350px;
+     margin-top: -390px;
      margin-left: 660px;
 }
 
 #l23{
      width: 300px;
-    height: 350px;
+    height: 370px;
     border-style: solid;
      background: linear-gradient(darkblue,greenyellow);
      border-radius: 20px;
-     margin-top: -350px;
+     margin-top: -400px;
      margin-left: 320px;
 }
 #l24{
@@ -269,12 +274,12 @@ color: bisque;
     
  #l28{
     width: 700px;
-    height: 280px;
+    height: 250px;
     border-style: solid;
     background: linear-gradient(darkblue,greenyellow);
     border-radius: 20px;
     margin-top: 10px;
-    margin-left: -200;
+    margin-left: -200px;
 
     
  }   
