@@ -4,7 +4,8 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     margin-top: -53PX;
-    margin-left: -3px
+    margin-left: -3px;
+}
 
 
 
@@ -23,18 +24,18 @@ margin-top: 50PX;
 
 
 h2{
-    color: black;
+    color: white;
     text-align: center;
 padding: 20px;
 
 }
-h1{
-     color: white;
-    text-align: center;
-padding: 0px;
-    margin: 10px;
-}
 
+h1{
+    color: white;
+    text-align: center;
+padding: 20px;
+
+}
 
 h2 a{
    
@@ -298,6 +299,8 @@ color: bisque;
     margin-top: -250px;
     margin-left: 800px;
  }
+
+
 
 
 
